@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+     <h3 class="section-title">いらっしゃいませ Irasshaimase
+SmkN 1 Turen</h3>
+          <br>
+                                             
+}
+</style>
+</head>
+<body>
+              <video width="400" controls >
+                 <source src="san.mp4" type="video/mp4">
+                 <source src="mov_bbb.ogg" type="video/mp4">
+            </video>
+            <br>
+ 
+</body>
+</html>
+</html><h2><font face="courier New">Jadwal Pelajaran Kelas 10<p></p> SmkN 1 Turen</font>
+
+<table border="1">
+<pre>
+<table border="1"bordercolor="red">
+<tr>
+<th>hari</th>
+<td><p align"center"><b>senin</td>
+</tr>
+<tr>
+<th rowspan="3">Upacara</th>
+<td>Teknik Jaringan Berbasis Luas</td>
+</tr>
+<tr>
+<td>KWU TKJ<td>
+</tr>
+<tr>
+<td>Administrasi Sistem Jaringan<td>
+</tr>
+<br></table>
+<table border="1"bordercolor="blue">
+<tr>
+<th>hari</th>
+<td><b>Selasa</td>
+</tr>
+<tr>
+<th rowspan="4">Istirahat</th>
+<td>Administrasi Sistem Jaringan
+</td>
+</tr>
+<tr>
+<td>Teknologi Layanan Jaringan<td>
+</tr>
+<tr>
+<td>PPKN<td>
+</tr>
+<td>Teknik Jaringan Berbasis Luas</td>
+<br>
+</br>
+</table>
+
+
+<table border="1"bordercolor="green">
+<tr>
+<th>hari</th>
+<td><b>Rabu</td>
+</tr>
+<tr>
+<th rowspan="3">Istirahat</th>
+<td>KWU TKJ</td>
+</tr>
+<tr>
+<td>Bahasa Indonesia<td>
+</tr>
+<tr>
+<td>Teknologi Layanann Jaringann 
+<td>
+</tr>
+</br>
+</table>
+
+<br>
+<table border="1"bordercolor="yellow">
+<tr>
+<th>hari</th>
+<td><b>Kamis</td>
+</tr>
+<tr>
+<th rowspan="3">Istirahat</th>
+<td>Matematika</td>
+</tr>
+<tr>
+<td>Bahasa Inggris<td>
+</tr>
+<tr>
+<td>Administrasi Sistem Jaringan<td>
+</tr>
+</table>
+
+<table border="1"bordercolor="ungu">
+<tr>
+<th>hari</th>
+<td><b>jum'at</td>
+</tr>
+<tr>
+<br>
+<th rowspan="3">Eskul</th>
+<td>Teknik Jaringan Infrastuktur Jaringan</td>
+</tr>
+<tr>
+<td>PA Dan Budi Pekerti<td>
+</tr>
+<tr>
+</tr>
+</table>
+
+<br>
+<table border="1"bordercolor="coklat">
+<tr>
+<th>hari</th>
+<td><b>Sabtu</td>
+</tr>
+<tr>
+<th rowspan="3">Pramuka</th>
+<td>Bahasa Sunda</td>
+</tr>
+<tr>
+<td>PJOK<td>
+</tr>
+<tr>
+<td>Administrasi Insfrastuktur Jaringan<td>
+</tr>
+</table>
+<html>
+<head>
+   <title>Belajar Membuat Form </title>
+</head>
+<body>
+<form action=" formulir.html" method="get">
+ 
+Nama: <input type="text" name="nama" value="Gustiawan" />
+<br />
+ 
+Password: <input type="SmkN 1 Turen" name="SmkN 1 Turen" />
+<br />
+ 
+Jenis Kelamin :
+<input type="radio" name="jenis_kelamin" value="laki-laki" checked />
+Laki - Laki
+<input type="radio" name="jenis_kelamin" value="perempuan" />
+Perempuan
+<br />
+ 
+Hobi: <input type="checkbox" name="hobi_baca" /> Membaca Buku
+      <input type="checkbox" name="hobi_nulis" checked /> Catur
+      <input type="checkbox" name="hobi_mancing" /> Olahraga
+<br />
+ 
+Asal Kota:
+ <select name="asal_kota" >
+     <option value="Kota SUKABUMI"> sukabumi</option>
+     <option value="Kota Cibarengkok">Cibarengkok</option>
+     <option value="Kota Sagaranten" selected>Sagaranten</option>
+ </select>
+<br />
+ 
+Komentar Anda:
+<textarea name="komentar" rows="5" cols="20">
+Silahkan katakan isi hati anda
+</textarea>
+<br />
+ 
+<input type="submit" value="Mulai Proses!" >
+ 
+</form>
+</body>
+</html>
